@@ -1,3 +1,3 @@
-age=36
-txt="My name is John, and I am {}"
-print(txt.format(age))
+price=49
+txt="The price is {} dollars"
+print(txt.format(price))
