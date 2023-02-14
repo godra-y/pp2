@@ -1,4 +1,5 @@
 sum=0
 for i in range(10):
-    sum+=i
+    n=int(input())
+    sum+=n
 print(sum)
