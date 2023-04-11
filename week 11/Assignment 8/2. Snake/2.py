@@ -21,7 +21,7 @@ snake_block=10
 snake_speed=15
 
 font_style=pygame.font.SysFont("bahnschrift", 100)
-score_font=pygame.font.SysFont("bahnschrift", 35)
+score_font=pygame.font.SysFont("bahnschrift", 25)
  
 def Your_score(score):
     value=score_font.render("Your score: "+str(score), True, WHITE)
